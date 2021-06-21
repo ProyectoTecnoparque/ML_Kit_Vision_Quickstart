@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40dp"
+    tools:context=".LoginActivity">
+    <TextView
+        android:text="Login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="34sp"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:paddingTop="20dp"
+        android:paddingBottom="50dp">
+    </TextView>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:text="Usuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold">
+        </TextView>
+        <EditText
+            android:id="@+id/campo_email"
+            android:textColor="@color/gray"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:textSize="19sp"
+            />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            >
+            <TextView
+                android:text="Contraseña"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold">
+            </TextView>
+
+            <EditText
+                android:id="@+id/campo_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:textColor="@color/gray"
+                android:textSize="19sp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+        <Button
+            android:id="@+id/btn_iniciar"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:padding="10dp"
+            android:background="@drawable/button_login"
+            android:text="Iniciar Sesión"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            />
+
+        <Button
+            android:id="@+id/btn_google"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_login"
+            android:text="Cuenta google"
+            android:textColor="@color/blue"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713346490381",
+    "firebase_url": "https://proyecto-vision-130ef-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-vision-130ef",
+    "storage_bucket": "proyecto-vision-130ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713346490381:android:98c0f9fc4382b086d9b544",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713346490381-dad47pm0l3a25fjiu1hb73svlimfka93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXa3r8okDn0lKmc7I1gTpoQ5a5oMLNTDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713346490381-dad47pm0l3a25fjiu1hb73svlimfka93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
