@@ -56,13 +56,8 @@ com/google/mlkit/vision/demo/FirstFragment.java
  com.google.mlkit.vision.demo.FirstFragment$1
 com/google/mlkit/vision/demo/preference/PreferenceUtils.java
  com.google.mlkit.vision.demo.preference.PreferenceUtils
-com/google/mlkit/vision/demo/LoginActivity.java
- com.google.mlkit.vision.demo.LoginActivity
- com.google.mlkit.vision.demo.LoginActivity$1
- com.google.mlkit.vision.demo.LoginActivity$1$1
- com.google.mlkit.vision.demo.LoginActivity$2
- com.google.mlkit.vision.demo.LoginActivity$3
- com.google.mlkit.vision.demo.LoginActivity$4
+com/google/mlkit/vision/demo/java/labeldetector/LabelGraphic.java
+ com.google.mlkit.vision.demo.java.labeldetector.LabelGraphic
 com/google/mlkit/vision/demo/java/barcodescanner/BarcodeGraphic.java
  com.google.mlkit.vision.demo.java.barcodescanner.BarcodeGraphic
 com/google/mlkit/vision/demo/preference/StillImagePreferenceFragment.java
@@ -115,5 +110,10 @@ com/google/mlkit/vision/demo/java/posedetector/classification/PoseClassifierProc
  com.google.mlkit.vision.demo.java.posedetector.classification.PoseClassifierProcessor
 com/google/mlkit/vision/demo/ScopedExecutor.java
  com.google.mlkit.vision.demo.ScopedExecutor
-com/google/mlkit/vision/demo/java/labeldetector/LabelGraphic.java
- com.google.mlkit.vision.demo.java.labeldetector.LabelGraphic
+com/google/mlkit/vision/demo/LoginActivity.java
+ com.google.mlkit.vision.demo.LoginActivity
+ com.google.mlkit.vision.demo.LoginActivity$1
+ com.google.mlkit.vision.demo.LoginActivity$1$1
+ com.google.mlkit.vision.demo.LoginActivity$2
+ com.google.mlkit.vision.demo.LoginActivity$3
+ com.google.mlkit.vision.demo.LoginActivity$4
