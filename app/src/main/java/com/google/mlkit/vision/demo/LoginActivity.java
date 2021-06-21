@@ -57,7 +57,7 @@
                     String correo = campo_email.getText().toString();
                     String password = campo_password.getText().toString();
                     if (!correo.equalsIgnoreCase("NaN") && !password.equalsIgnoreCase("NaN")){
-                        FirebaseAunt.createUserWithEmailAndPassword(correo,password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
+                        FirebaseAunt2.createUserWithEmailAndPassword(correo,password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                             @Override
                             public void onComplete(@NonNull @NotNull Task<AuthResult> task) {
                                 Toast.makeText( LoginActivity.this, "Registro Exitoso!!", Toast.LENGTH_SHORT).show();
