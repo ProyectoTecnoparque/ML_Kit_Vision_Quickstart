@@ -34,6 +34,7 @@ public class LoginActivity extends AppCompatActivity {
     String TAG = "GoogleSignIn";
 
     private FirebaseAuth FirebaseAunt;
+    private FirebaseAuth FirebaseAunt2;
     private FirebaseAuth.AuthStateListener firebaseAuthListener;
     private GoogleSignInClient mGoogleSignInClient;
 
@@ -52,6 +53,7 @@ public class LoginActivity extends AppCompatActivity {
         btn_iniciar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view){
+                FirebaseAunt2 = FirebaseAuth.getInstance();
                 String correo = campo_email.getText().toString();
                 String password = campo_password.getText().toString();
                 if (!correo.equalsIgnoreCase("NaN") && !password.equalsIgnoreCase("NaN")){
@@ -72,7 +74,7 @@ public class LoginActivity extends AppCompatActivity {
         btn_google.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-              singIn();
+                singIn();
             }
         });
         // Configure Google Sign In
@@ -137,5 +139,5 @@ public class LoginActivity extends AppCompatActivity {
                         }
                     }
                 });
-         }
     }
+}
