@@ -96,12 +96,12 @@
         "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\layout\\content_login.xml"
     },
     {
-        "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
         "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -164,16 +164,16 @@
         "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\layout\\activity_still_image.xml"
     },
     {
-        "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
         "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\layout\\fragment_second.xml"
     },
     {
         "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\sena\\AndroidStudioProjects\\ML_Kit_Vision_Quickstart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
